@@ -1,0 +1,7 @@
+*.pickle
+example_files/
+example1_files/
+example2_files/
+artist_inserts.sql
+*.pyc
+.idea/
